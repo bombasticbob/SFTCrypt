@@ -8,7 +8,8 @@ remember correctly.  But describing in PROSE was LEGAL.  So I did.
 
   Later the laws were sensibly changed.  In short the method must be
 disclosed.  Making the source public discloses it to the world.  But I had
-already sent a copy to some gummint agency decades ago.  So there you go.
+already sent a copy to some gummint agency decades ago, as was required.
+So there you go.  All nice and legal.
 
   The key length is fixed at 128 bits.  The algorithm itself really can't do
 any better.  And it is not perfect by any means.  But it DOES work, and it's
