@@ -4,7 +4,7 @@
 that was invented by me back in 1998 (or perhaps earlier).   I described it
 in prose on http://mrp3.com/encrypt.html back when it was illegal to export
 encryption from the USA over a certain number of (pathetic) bits, 56 if I
-remember correctly.
+remember correctly.  But describing in PROSE was LEGAL.  So I did.
 
   Later the laws were sensibly changed.  In short the method must be
 disclosed.  Making the source public discloses it to the world.  But I had
